@@ -57,7 +57,7 @@ body {
 }
 
 .sub-heading .importent {
-  color: Air Force Blue;
+  color: mediumblue;
   text-transform: uppercase;
   font-weight: 300;
 }
@@ -119,7 +119,7 @@ blockquote::before {
 }
 
 .img-card { 
-  width: 100% 
+  width: 200px 
 }
 .cards {
   columns: 25ch 3;
