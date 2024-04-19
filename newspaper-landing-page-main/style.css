@@ -118,6 +118,9 @@ blockquote::before {
   font-size: 150px;
 }
 
+.img-card { 
+  width: 100% 
+}
 .cards {
   columns: 25ch 3;
   gap: 40px;
