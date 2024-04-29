@@ -90,8 +90,6 @@ article > p {
   font-size: 20px;
   margin-bottom: 20px;
 
-  columns: 3 25ch;
-  column-gap: 40px;
   hyphens: auto;
 }
 
